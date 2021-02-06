@@ -203,7 +203,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6352434405264303291}
   - component: {fileID: 6187349422016679271}
-  - component: {fileID: 7763635118811517617}
+  - component: {fileID: 2031134326799019437}
   m_Layer: 0
   m_Name: SpearWithHand
   m_TagString: Untagged
@@ -275,7 +275,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &7763635118811517617
+--- !u!114 &2031134326799019437
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

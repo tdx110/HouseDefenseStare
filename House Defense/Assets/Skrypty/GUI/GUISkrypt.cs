@@ -6,7 +6,6 @@ using UnityEngine.SceneManagement;
 using UnityEditor;
 using System;
 using UnityEngine.Events;
-using UnityScript.Steps;
 
 public class GUISkrypt : MonoBehaviour
 {
