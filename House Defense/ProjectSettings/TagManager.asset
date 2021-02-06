@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bariera
+  - Przeciwnicy
+  - Dom
+  - "Strza\u0142a"
+  - Warrior
+  - 
+  - 
+  - 
+  - KameraDefault
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - "GUIPrz\xF3d"
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "T\u0142o"
+    uniqueID: 2296696871
+    locked: 0
+  - name: Przeciwnicy
+    uniqueID: 1715487589
+    locked: 0
+  - name: "Ska\u0142aGranica"
+    uniqueID: 307606201
+    locked: 0
+  - name: Portal
+    uniqueID: 3810330591
+    locked: 0
+  - name: Dom
+    uniqueID: 678959305
+    locked: 0
+  - name: Drzwi
+    uniqueID: 3300731643
+    locked: 0
+  - name: Gleba
+    uniqueID: 385436003
+    locked: 0
+  - name: "GUI Prz\xF3d"
+    uniqueID: 3796386127
+    locked: 0
+  - name: "Animacje Cz\u0105steczkowe"
+    uniqueID: 3038947967
+    locked: 0
